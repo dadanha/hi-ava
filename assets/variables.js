@@ -5,6 +5,6 @@ export default {
     afternoon: "Selamat Sore",
     day: "Selamat Siang",
     morning: "Selamat Pagi",
-    night: "Selamat Malam"
+    night: "Selamat Tidur"
   }
 };
